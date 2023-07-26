@@ -5,7 +5,7 @@ The Job Opportunities Assistant is an online training and placement system aimed
 
 ## Installation Instructions
 To set up and run the Job-Opportunities-Assistant project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/Job-Opportunities-Assistant.git`
+1. Clone the repository: `git clone https://github.com/Ineshrao/Job-Opportunities-Assistant.git`
 2. Navigate to the project directory: `cd Job-Opportunities-Assistant`
 3. Set up the JDBC driver and create the necessary database as specified in the `Database.pdf` file.
 4. Open the project in your preferred IDE.
